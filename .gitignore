@@ -1,0 +1,15 @@
+# Local.
+*.png
+*.slurm
+*.sh
+**/*.txt
+**/*.pdf
+**/*.pkl
+results
+
+# Python.
+**/__pycache__
+
+# VSCode.
+**/*.vscode
+**/*.code-workspace
