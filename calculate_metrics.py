@@ -62,7 +62,7 @@ def main(gen_zip: str,
                                 resolution=512,
                                 batch_size=batch_size,
                                 num_images=num_images,
-                                num_workers=0)  # TODO: Test changing this.
+                                num_workers=0)
 
 
     # Compute features of generated images.

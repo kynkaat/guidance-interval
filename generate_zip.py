@@ -81,7 +81,7 @@ def main(cond_pkl: str,
     os.makedirs(zip_dir, exist_ok=True)
     device = torch.device('cuda')
     seeds = np.arange(seed, seed + num_images, dtype=int)
-    torch.manual_seed(seed) # TODO: required?
+    torch.manual_seed(seed)
 
     # Define sampler parameters.
     sampler_kwargs = dict(num_steps=32,
