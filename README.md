@@ -63,7 +63,7 @@ See `--help` of `generate_images.py` and `calculate_metrics.py` for more instruc
 
 ## License
 
-The code of this repository is released under the license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The code of this repository is released under the Apache License 2.0.
 
 This repository adapts code from public repositories: [StyleGAN2](https://github.com/NVlabs/stylegan2), [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) and [EDM](https://github.com/NVlabs/edm), which are released under Nvidia Source Code License-NC, Nvidia Source Code License-NC, and Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, respectively.
 
