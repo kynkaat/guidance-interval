@@ -25,7 +25,7 @@ conda activate guidance-interval
 
 ## Usage
 
-This repository provides code to reproduce qualitative and quantitative ImageNet-512 results with EDM2-XXL model. The models used in this paper are available [here](https://drive.google.com/drive/folders/14sft04JZdvHqhW23zqrwkkn4MhmZlwiz?usp=sharing).
+This repository provides code to reproduce qualitative and quantitative ImageNet-512 results with EDM2-XXL model. The models used in this paper are available [here](https://drive.google.com/drive/folders/1nrxg-0LkAePD9HOWotS6q6E9MxpJelNv?usp=sharing).
 
 ### Qualitative results
 
@@ -38,7 +38,7 @@ python generate_images.py \\
     --figs=all
 ```
 
-See `--help` of `generate_images.py` for more instructions. The reference qualitative images can be found [here](https://drive.google.com/drive/folders/14sft04JZdvHqhW23zqrwkkn4MhmZlwiz?usp=sharing).
+See `--help` of `generate_images.py` for more instructions. The reference qualitative images can be found [here](https://drive.google.com/drive/folders/1nrxg-0LkAePD9HOWotS6q6E9MxpJelNv?usp=sharing).
 
 ### Quantitative results
 
