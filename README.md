@@ -25,7 +25,7 @@ conda activate guidance-interval
 
 ## Usage
 
-This repository provides code to reproduce qualitative and quantitative ImageNet-512 results with EDM2-XXL model. The models used in this paper are available [here](https://drive.google.com/drive/folders/1nrxg-0LkAePD9HOWotS6q6E9MxpJelNv?usp=sharing).
+This repository provides code to reproduce qualitative and quantitative ImageNet-512 results with EDM2-XXL model. The models used in this paper are available [here](https://drive.google.com/drive/folders/1FWah_gP3WQ8Aev5xOr8R3D8xYch_eZ0n?usp=sharing).
 
 ### Qualitative results
 
